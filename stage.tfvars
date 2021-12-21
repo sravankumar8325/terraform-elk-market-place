@@ -1,0 +1,6 @@
+ami_name = "ami-0997f8647e96c0857"
+type = "t3.medium"
+keyname = "priv.pem"
+myvpc = "vpc-008fa7456ea798231"
+my-subnet = "subnet-048c8b0e7f36f5b4a" 
+my-sg = "sg-07011e5410964ed95"
